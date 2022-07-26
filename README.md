@@ -1,5 +1,5 @@
 # US_Stock_Analysis
-It is my personal(and first!) project for US stock analysis.\
+It is my personal(and first!) project for US stock analysis.
 ## Library
 - numpy
 - pandas
